@@ -27,9 +27,9 @@ Crypto API for data
 - https://coinmarketcap.com/api/
 
 ## **Deliverables**
-Your python application/script should do the following:
+Your python application/script should do / have the following:
 - Display data from any CSVs, JSONs, and APIs in a logical format on your dashboard
-- Pulls live data (for this, can be on hourly or daily) and updates dashboard accordingly
+- Pull live data (for this, can be on hourly or daily) and updates dashboard accordingly
 - Easy interface between application and API allowing easily changing data source
 - Mouse-over components show relevant details of information on graph
 - Be modular and follow best-practices in order to be "future-proof" for development by you or your teammates
