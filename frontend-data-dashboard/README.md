@@ -2,7 +2,7 @@
 
 **Difficulty: 4**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and knowledge you possess. Please read through the following prompt for what to do.
+Thank your for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
 
 ## **Prompt: Data Dashboard**
 Although society is moving towards data-driven applications, humans are still required for many tasks, and visualizing this data provides an understanding of what is going on in real time. The ability to visualize different pieces of data in a visually appealing and informationally dense format is as much an art as it is engineering. With the types of data we work with at Quant, we value your unique, artistic perspective in how to visualize and design such an application.
