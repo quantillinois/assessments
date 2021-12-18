@@ -34,8 +34,8 @@ Your react application should do the following:
 - Be modular and follow best-practices in order to be "future-proof" for development by you or your teammates
 - Any other things you think might be useful!
 
-Optional:
-- Pulls live data (daily or asynchronous) and updates dashboard accordingly
+Optional Requirements:
+- Pulls live data (daily or asynchronous), potentially from database or some other method, and updates dashboard accordingly
 - Pull data from LinkedIn relevant to the person
 - Documentation to an API for your dashboard to show how to interact with, perferably a Python wrapper
 
