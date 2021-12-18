@@ -21,7 +21,7 @@ To start working on your project, **make sure you have forked the repository so 
 ## **Deliverables**
 Your python application/script should do the following:
 - Be able to accept command line arguments to pass in a user (e.g. "u/roaringkitty")
-- Parse the subreddit to obtain the following information in as few calls as possible:
+- Parse the user to obtain the following information in as few calls as possible:
   - PII: username, age, cake day, karma, etc.
   - top 5 most-voted (positive or negative) posts
   - top 5 most-voted replies
