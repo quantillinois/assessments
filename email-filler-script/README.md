@@ -2,7 +2,7 @@
 
 **Difficulty: 1**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
+Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
 
 ## **Prompt: Email Filler Script**
 Emailing, although still mostly a human-centered application, can utilize automations to help save time especially on emails of scale. Personalizing these emails can be made faster through the use of Python scripts and that is where you come in!
