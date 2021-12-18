@@ -27,7 +27,7 @@ Crypto API for data
 - https://coinmarketcap.com/api/
 
 ## **Deliverables**
-Your python application/script should do the following:
+Your React application should do the following:
 - Display data from any CSVs, JSONs, and APIs in a logical format on your dashboard
 - Pulls live data (for this, can be on hourly or daily) and updates dashboard accordingly
 - Easy interface between application and API allowing easily changing data source
