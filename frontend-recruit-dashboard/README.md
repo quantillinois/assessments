@@ -1,4 +1,4 @@
-# Recruiting Dashboard (own data)
+# Recruiting Dashboard (csv data)
 
 **Difficulty: 4**
 
