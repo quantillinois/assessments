@@ -1,10 +1,10 @@
-# Twitter User Scraper
+# Twitter Keyword Scraper
 
 **Difficulty: 3**
 
 Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and knowledge you possess. Please read through the following prompt for what to do.
 
-## **Prompt: Twitter User Scraper**
+## **Prompt: Twitter Keyword Scraper**
 The rise of retail trading and tracking this information dessimination has often been at the center of attention for those looking to track what others are doing. Twitter has always been an interesting pool of information, with everyone around the world tweeting away and expressing their views and emotions about products, ideas and issues. At Quant, we want to be able to use this information in an aggregate manner to make insights into our positions.
 
 Your task is to build a Python scraper for Twitter using its API. The goal of the script will be to gather tweets mentioning a particular keyword, that we can use later as part of our Quantitative Research Division. Your scrape should gather popular tweets mentioning a particular keyword (this can be either a hashtag about a social issue, a stock ticker, or anything else, really), made in a certain user specified timeframe (1h, 2h etc). It should also gather data about the metadata about these tweets, such as location, the user making the tweets, likes, retweets and comments. We need to be able to parse these, and then it needs to be output into a fast, parsable file format (JSON or CSV for example).
