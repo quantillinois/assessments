@@ -18,6 +18,8 @@ This assessment is all about design choices and documentation and we want to see
 - https://docs.python.org/3/library/re.html
 - https://docs.python.org/3/library/json.html
 - https://realpython.com/python-send-email/
+- https://docs.python.org/3/library/unittest.html
+- https://realpython.com/python-testing/
 
 ## **Deliverables**
 1. A python script that can parse the email template
@@ -27,6 +29,7 @@ This assessment is all about design choices and documentation and we want to see
 
 Optional Requirements:
 - Create another script that will take in each PDF and correctly send them to the email destinations. 
+- Add a compact testing suite that tests all edge cases. Remember one test should test one case, and be named appropriately.
 
 ## **Grading**
 We will be looking at your project and grading it under these five criteria:
