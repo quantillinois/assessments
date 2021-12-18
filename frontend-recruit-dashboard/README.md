@@ -7,7 +7,7 @@ Thank you for applying to Quant! We are interested in your application and want 
 ## **Prompt: Recruiting Dashboard**
 Although society is moving towards data-driven applications, humans are still required for many tasks, and visualizing this data provides an understanding of what is going on in real time. The ability to visualize different pieces of data in a visually appealing and informationally dense format is as much an art as it is engineering. With the types of data we work with at Quant, we value your unique, artistic perspective in how to visualize and design such an application.
 
-Your task is to build a UI/UX interface centered around recruitment and HR visualization, like a recruitment dashboard. Attached will be a CSV file of fake recruits, as well as information pertaining to them. We want you to design an interface that will articulate the information in an easily parsable format for humans, with a focus on user experience, ease with which to use your application, and modularity. You may want to add additional items that are not fake to test out your UI.
+Your task is to build a UI/UX interface centered around recruitment and HR visualization, like a recruitment dashboard. Attached will be a CSV file of fake recruits, as well as information pertaining to them. We want you to design an interface that will articulate the information in an easily parsable format for humans, with a focus on user experience, ease with which to use your application, and modularity. You may want to add additional items that are not fake to test out your UI. You may also need to clean some of the data as you see fit, but the **original `data.csv` should not change**.
 
 You will be graded on how responsive your UI is, how easy it is to add additional data, and how easy it would be for someone to continue to implement functionality in the near-future. This is all in addition to the criteria listed below. This means it would also be wise to include some information on how to run your code, what your code does, and maybe even a section stating what future improvements would be in case someone else hops on your project.
 
@@ -38,6 +38,7 @@ Optional Requirements:
 - Pulls live data (daily or asynchronous), potentially from database or some other method, and updates dashboard accordingly
 - Pull data from LinkedIn relevant to the person
 - Documentation to an API for your dashboard to show how to interact with, perferably a Python wrapper
+- Clean up data to be consistent and provide API endpoint from application to database
 
 ## **Grading**
 We will be looking at your project and grading it under these five criteria:
