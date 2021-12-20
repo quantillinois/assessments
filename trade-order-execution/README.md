@@ -21,7 +21,7 @@ A standard trading order might look like this:
 
 Feel free to change it up if you feel like something is missing. You may also want to know who made the order, which portfolio the stock will go to, etc. However, this information won't be passed onto the exchange and will be kept for bookkeeping. You may also need to create a dummy "orderer" who will help feed you the orders *asynchronously*. 
 
-You will be graded on how accurate your bookkeeping is, you quickly it can process the orders, and the method in which you store the data. This is all in addition to the criteria listed below. This means it would also be wise to include some information on how to run your code, what your code does, and maybe even a section stating what future improvements would be in case someone else hops on your project.
+You will be graded on how accurate your bookkeeping is, how quickly you can process the orders (and delay), and the method in which you store the data. This is all in addition to the criteria listed below. This means it would also be wise to include some information on how to run your code, what your code does, and maybe even a section stating what future improvements would be in case someone else hops on your project.
 
 To start working on your project, **make sure you have forked the repository so that you will own your own version**. All information should be provided to you in an email. If you have any questions, feel free to contact us. Good luck!
 
@@ -32,6 +32,7 @@ Electronic Trading Protocols
 - https://www.investopedia.com/investing/basics-trading-stock-know-your-orders/
 - https://en.wikipedia.org/wiki/List_of_electronic_trading_protocols
 - https://www.tradingtechnologies.com/xtrader-help/eris-gateway/configuring-order-management/understanding-order-management/
+
 Crypto API for data
 - https://github.com/ccxt/ccxt
 - https://coinmarketcap.com/api/
