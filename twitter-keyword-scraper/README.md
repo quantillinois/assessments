@@ -24,10 +24,11 @@ Your python application/script should do the following:
 - Be able to accept command line arguments to pass in a keyword (e.g. "$TSLA", "#omicron")
 - Be able to accept the filtering (e.g "Top", "Latest")
 - Obtain a list of tweets and the following information in as few calls as possible:
-   - Number of likes, retweets, comments in each tweet.
-   - Link to each user of the tweet (for if we want to further parse the user in an another application)
+   - Content of the tweet
+   - Number of likes, retweets, comments in each tweet
+   - User of the tweet (for if we want to further parse the user in an another application)
    - List of comments (do not directly parse this, this will slow you down, instead, write another function to get a list of comments in case we need to, using the tweetID)
-   - Location if it exists.
+   - Location if it exists
    - Time the tweet was made
    - Any additional metric you think might be useful!
 - Store all data into easily parsable and logically organized objects
