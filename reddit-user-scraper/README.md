@@ -2,7 +2,7 @@
 
 **Difficulty: 3**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and knowledge you possess. Please read through the following prompt for what to do.
+Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and knowledge you possess. Please read through the following prompt for what to do.
 
 ## **Prompt: Reddit User Scraper**
 The rise of retail trading and tracking this information dessimination has often been at the center of attention for those looking to track what others are doing. Reddit has been in the news lately in regards to how groups of retail traders are able to share their sentiment about the stock through its communications platform. Especially of note are certain highly influential users who have a significant following or reaction when they post. We want to be able to use this information to make insights into our positions.
