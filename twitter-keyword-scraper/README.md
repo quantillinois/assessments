@@ -22,7 +22,7 @@ To start working on your project, **make sure you have forked the repository so 
 ## **Deliverables**
 Your python application/script should do the following:
 - Be able to accept command line arguments to pass in a keyword (e.g. "$TSLA", "#omicron")
-- Be able to accept the filtering (e.g "Top", "Latest")
+- Be able to accept filtering (e.g "Top", "Latest")
 - Obtain a list of tweets and the following information in as few calls as possible:
    - Content of the tweet
    - Number of likes, retweets, comments in each tweet
