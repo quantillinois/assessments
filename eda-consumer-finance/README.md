@@ -7,9 +7,9 @@ Thank you for applying to Quant! We are very interested in your application and 
 ## **Prompt: Exploratory Data Analysis on Consumer Finance Dataset**
 Exploratory data analysis plays a huge part in quantitative finance. Often, in a variety of scenarios, consumer interests, expectations and beliefs play a huge role in deciding major moves for organisations.
 
-_Imagine the following scenario:_ We are a up and coming bank with limited resources. However, we want to start generating alpha as soon as possible and are elated to do so. Unfortunately, we are unable to hire a large legal team that handles disputes effectively, and seek to minimise the number of consumer complaints that we deal with, as well as deal with only general categories whose disputes are easy to resolve.
+_Imagine the following scenario:_ We are an up and coming bank with limited resources. We want to start generating alpha as soon as possible and are elated to do so. Unfortunately, we are unable to hire a large legal team that handles disputes effectively, and seek to minimise the number of consumer complaints that we deal with, as well as deal with only general categories whose disputes are easy to resolve.
 
-On the bright side, we have a dataset with a large number of submitted complaints for many credit based products. Based on these complaints, can you generate insights and a one page summary of high-risk credit products that our company can sell (from a legal and PR perspective, assume that another team handles actual credit-default risk.)
+On the bright side, we have a dataset with a large number of submitted complaints for many credit based products. Based on these complaints, can you generate insights and a one page summary of high-risk credit products that our company can sell? (from a legal and PR perspective, assume that another team handles actual credit-default risk.)
 
 Your task, then, is to write a Jupyter Notebook detailing an exploration into the data that you have. Here are a few ideas that you can explore: 
 
