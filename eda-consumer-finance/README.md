@@ -2,7 +2,7 @@
 
 **Difficulty: 4**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills you possess. Please read through the following prompt for what to do.
+Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills you possess. Please read through the following prompt for what to do.
 
 ## **Prompt: Exploratory Data Analysis on Consumer Finance Dataset**
 Exploratory data analysis plays a huge part in quantitative finance. Often, in a variety of scenarios, consumer interests, expectations and beliefs play a huge role in deciding major moves for organisations.
