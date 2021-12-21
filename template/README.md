@@ -2,7 +2,7 @@
 
 **Difficulty: 3**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
+Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
 
 ## **Prompt: Mr. Sam Schapiro**
 As part of our mission to use data to help inform our quantitative finance positions, we want to make sure we are able to pull data from a myriad of sources. One of these sources is the holdings of one Mr. Sam Schapiro. Mr. Schapiro's portfolio is of great interest to us and will helps us make informed decisions in how to best position ourselves.
