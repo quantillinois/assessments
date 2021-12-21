@@ -41,7 +41,7 @@ Crypto API for data
 Your project should do the following:
 - Accept order requests and execute them on an exchange (this can be paper trading)
   - Ideally can actually place an order on some exchange (CoinMarketCap for example)
-- Expose a leah API that can easily place these orders (potentially RESTful!)
+- Expose a lean API that can easily place these orders (potentially RESTful!)
 - Store all executed orders in persistant storage
   - Database if possible, else text (JSON or CSV) is fine for now
 - (Possibly separate) API to query for bookkeeping and how orders were executed
