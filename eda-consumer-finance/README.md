@@ -30,7 +30,9 @@ This criteria is the same in our codebase and will be a good indicator if you ca
 
 The dataset is on Google Drive. Our advice for you is to download the dataset, work on it, and add it to the gitignore in your private forks, so that you don't commit it. **Always print out outputs of operations within your notebook, but do not include the dataset itself as part of your submission.**
 
-Link to dataset: Will be added.
+Link to dataset: https://drive.google.com/file/d/1Vnny6HVGBgF_mdDtIo2ddOTtOiGF5jxK/view?usp=sharing
+
+Log in with your GApps@Illinois account to access this dataset.
 
 
 ## **Resources**
