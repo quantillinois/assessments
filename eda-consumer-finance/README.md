@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-**Difficulty: 4**
+**Difficulty: 5**
 
 Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills you possess. Please read through the following prompt for what to do.
 
