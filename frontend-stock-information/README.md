@@ -2,7 +2,7 @@
 
 **Difficulty: 3**
 
-Thank your for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
+Thank you for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
 
 ## **Prompt: Data Dashboard**
 With the rise of data's prevelance in a myriad of applications, the need for human-readable UI interfaces has only increased. Information about a stock, like its volume, price, high/low's, market cap, analyst ratings, and news need to be displayed in a manner that both conveys the necessary information and is also comfortable to the human eye. A good UI goes a long way; Robinhood's meteroic rise in popularity over other brokers was largely due to its intuitive interface and design that appealed to the new tech-savvy generation. At Quant, we need people with both a creative mindset in designing such interfaces while also having the technical skill to display the correct information.
