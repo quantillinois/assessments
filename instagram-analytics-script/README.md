@@ -18,6 +18,7 @@ To start working on your project, **make sure you have forked the repository so 
 ## **Resources**
 - https://developers.facebook.com/docs/instagram
 - https://www.youtube.com/watch?v=vBH6GRJ1REM
+- https://www.youtube.com/watch?v=gjpouZt20FM
 
 ## **Deliverables**
 Your code should do the following:
