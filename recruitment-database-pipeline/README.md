@@ -2,7 +2,7 @@
 
 **Difficulty: 5**
 
-Thank your for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
+Thank you for applying to Quant! We are very interested in your application and wanted to see what you can do with the skills and brains you possess. Please read through the following prompt for what to do.
 
 ## **Prompt: Recruitment Database Pipeline**
 
