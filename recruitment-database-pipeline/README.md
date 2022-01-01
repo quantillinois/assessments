@@ -31,6 +31,10 @@ Optional
 Optional requirements:
 - Automate writing data from a Google Form directly to database. 
 - Use GraphQL API
+- If you have additional time, implement additional functionality like:
+  - Tracking if we have sent an assessment out (and which one). Let me know if you need data for this.
+  - Tracking the status of the applicant (received application, sent assessment, etc.)
+  - etc.
 
 ## **Grading**
 We will be looking at your project and grading it under these five criteria:
