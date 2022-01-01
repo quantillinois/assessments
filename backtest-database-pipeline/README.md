@@ -8,7 +8,7 @@ Thank you for applying to Quant! We are very interested in your application and 
 
 At Quant, we are looking to develop our own backtesting infrastructure. One of the things integral to something like this is developing a pipeline between the database, a stock api, and our api. 
 
-Your task is to spin up a server/serverless relational database instance (akin to Amazon Aurora RDS instance), fill it with data from Polygon.io, and then create a webserver (using Flask or something similar) of which we can query the database for data. Yep that's it! Keep it mind we really just want a working Minimum Viable Product, so you don't have to use the latest technolgy if it'll take too long. You can do that when you're on the team!
+Your task is to spin up a server/serverless relational database instance (akin to Amazon Aurora RDS instance), fill it with data from Polygon.io, and then create a webserver (using Flask or something similar) of which we can query the database for data. Yep that's it! Keep it mind we really just want a working Minimum Viable Product, so you don't have to use the latest technology if it'll take too long. You can do that when you're on the team!
 
 However, if you have time, I want you to implement the API for the webserver in GraphQL instead of a regular RESTful API.
 
