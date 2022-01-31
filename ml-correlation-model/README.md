@@ -1,4 +1,4 @@
-# Playing the Currency Markets using Forex Data?
+# Playing the Equity Markets using Forex Data?
 
 _Difficulty: 4_
 
