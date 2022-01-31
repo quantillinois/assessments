@@ -1,4 +1,4 @@
-# Playing the Equity Markets using Forex Data?
+# Playing the Equity Markets using Commodity Data?
 
 _Difficulty: 4_
 
