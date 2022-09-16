@@ -5,7 +5,7 @@
 Thank you for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
 
 ## **Prompt: Reddit Subreddit Scraper**
-The rise of retail trading and tracking this information dessimination has often been at the center of attention for those looking to predict financial markets. Reddit has been in the news lately in regards to how groups of retail traders are able to share their market sentiments through its communications platform. We want to be able to use this information to unleash insights into our positions.
+The rise of retail trading and tracking this information dessimination has often been at the center of attention for those looking to place trades on this information. Reddit has been in the news lately in regards to how groups of retail traders are able to share their market sentiments through its communications platform. We want to be able to use this information to unleash insights into our positions.
 
 Your task is to build a Python scraper for Reddit using its API. The goal of this script will be to gather information about pertinent subreddits that we can use later as part of our Quantitative Research and Strategy Implementation divisions. Your scrape should gather data about a subreddit, namely the number of accounts less than 3 months old, the top posts for every week for the last 26 weeks, the top 10 replies to those post, and the posts' information (i.e., up/down votes, replies, etc.). We need to be able to parse this information, maybe as dataclass objects, and then the data needs to be output into a fast, parsable file format (could be JSON or CSV, for example). 
 
