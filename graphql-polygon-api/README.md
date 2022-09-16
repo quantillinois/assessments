@@ -5,7 +5,7 @@
 Thank your for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
 
 ## **Prompt: GraphQL Polygon API**
-GraphQL is a promising new language that will help us better access our data. If you are unfamiliar with GraphQL, I suggest you read up and watch some YouTube videos about it. It allows us to only query for the data and objects we will use, whereas a REST API requires us to throwaway irrelevant objects that were returned by the query. 
+GraphQL is a promising new querying language that will help us better access our data. If you are unfamiliar with GraphQL, I suggest you read up and watch some YouTube videos about it. It allows us to only query for the data and objects we will use, whereas a REST API requires us to throwaway irrelevant objects that were returned by the query. 
 
 Your task is to build a GraphQL wrapper around Polygon's API. Specifically, we want you to create a GraphQL API, which when used, will return the appropriate information about a stock or security from Polygon.io's API. 
 
