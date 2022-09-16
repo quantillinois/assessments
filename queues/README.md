@@ -11,15 +11,20 @@ Your task is to implement the data structure Queue we provided to you in the src
 
 You will see a `matching.cpp` which is EXTRA CREDIT for those who complete this assignment. We don't expect that everyone will be able to complete this, but we know that the top candidates may find this task too simple. Please do what you can while learning things along the way.
 
+Feel free to use the main methods in `entry` however you see fit. Those are for you to use. However, it is highly, highly recommended that you turn in some sort of example in the main methods to showcase your work if you do move on to the interview stage.
+
 You are graded primarily on the completeness of your Queue class, the tests you've created, as well as good code design. Please follow good C++ conventions, including but not limited to styling from the Google C++ Style Guide. Make sure you have the same function signature as the C++ reference in `queue.h`, but you may change it up if you can justify a reason to. ***DO NOT INCLUDE STD::QUEUE OR STD::VECTOR AT ALL IN YOUR CODE***. Doing so is an automatic forfeit of this assignment. 
 
 
 To start working on your project, **make sure you have forked the repository so that you will own your own version**. All information should be provided to you in an email. If you have any questions, feel free to contact us. Good luck!
 
+Note: It is recommended to use VSCode's automatic build/run included inside the application. You may encounter errors building and making on your own. Make sure to have opened the folder within the Docker Container.
+
 ## **Resources**
 - Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
 - std::queue reference: https://en.cppreference.com/w/cpp/container/queue
 - Catch2 Tutorial: https://github.com/catchorg/Catch2/blob/devel/docs/tutorial.md
+- Docker VSCode Tutorial: https://code.visualstudio.com/docs/remote/containers
 
 ## **Deliverables**
 - queue.h
