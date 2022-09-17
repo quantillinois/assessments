@@ -1,6 +1,6 @@
 # Carousel
 
-**Difficulty: 4**
+**Difficulty: 3**
 
 Thank you for applying to Quant! We are interested in your application and want to see what you can do with the skills and knowledge you possess. Please read through the following prompt for directions.
 
